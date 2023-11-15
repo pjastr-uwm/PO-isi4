@@ -29,6 +29,9 @@ class Time
         {
             this.houres -= 24;
         }
-        return this;
+        Time temp = new Time();
+        temp.houres = this.houres;
+        temp.minutes = this.minutes;
+        return temp;
     }
 }
