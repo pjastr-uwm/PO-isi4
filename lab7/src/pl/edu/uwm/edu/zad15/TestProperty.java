@@ -26,6 +26,8 @@ public class TestProperty {
         System.out.println(a1.equals(a3)); //false
         System.out.println(a1.equals(a4)); //false
         System.out.println(a1.equals(a5)); //false
+        System.out.println(a1.hashCode() == a2.hashCode()); //true
+        System.out.println(a1.hashCode() == a4.hashCode()); //false
     }
 
 }
