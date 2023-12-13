@@ -76,7 +76,7 @@ public class ComputerGame {
     public void removeLast(){
         if (!ratings.isEmpty()){
                 ratings.remove(ratings.size()-1);
-            }
         }
     }
+    
 }
