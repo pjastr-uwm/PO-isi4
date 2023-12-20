@@ -1,4 +1,4 @@
-package interfejsy;
+package interfejsy.zad1;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package interfejsy;
+package interfejsy.zad1;
 
 public class Dog implements LoudAnimal{
     @Override

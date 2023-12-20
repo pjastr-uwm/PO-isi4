@@ -1,4 +1,4 @@
-package interfejsy;
+package interfejsy.zad1;
 
 public class Cat implements LoudAnimal{
     @Override
